@@ -1,6 +1,6 @@
 # Binary Translator CLI
 
-This program translates binary to text and reverse in your console. It asks you the way to work (Binary -> Text or Text -> Binary)
+This program translates binary to text and reverse in your console. It asks you the way to work (Binary -> Text or Text -> Binary) and then your input
 
 ## How to Run
 
